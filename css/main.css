@@ -1,0 +1,7 @@
+#left-eye {
+  animation: shift 3s linear infinite;
+}
+
+#right-eye {
+  animation: shift 3s linear infinite;
+}
